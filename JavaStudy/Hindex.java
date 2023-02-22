@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Collections;
 
+
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java
 //H-index 설명 : https://en.wikipedia.org/wiki/H-index
 public class Hindex {
