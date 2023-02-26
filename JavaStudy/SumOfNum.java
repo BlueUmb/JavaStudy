@@ -3,13 +3,11 @@ public class SumOfNum {
     public static int[] solution(int num, int total) {
         int[] answer = new int[num];   
         int start =  (total / num) - ((num - 1) / 2); 
-        int j = 0;
-
-        for(int i=start; i<start+num; i++){
-            answer[j] = i;   
-            j++;         
+      
+        for(int i=0; i<num; i++){
+            answer[i] = start;   
+            start++;         
         }
-
         return answer;
     }
 
