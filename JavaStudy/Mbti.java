@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
+//문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/118666
 public class Mbti {
     public static String solution(String[] survey, int[] choices) {
         String answer = "";
