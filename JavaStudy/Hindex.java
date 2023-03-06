@@ -6,6 +6,7 @@ import java.util.Collections;
 public class Hindex {
     public static int solution(int[] citations) {
         int answer = 0;
+
         Integer[] copycitations = new Integer[citations.length];
 
         //int형 배열을 Integer형 배열로 변환 
