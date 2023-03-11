@@ -5,8 +5,8 @@ import java.util.Comparator;
 
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120897
 public class Measure {
-    public static ArrayList solution(int n) {
-        ArrayList answer = new ArrayList<>();
+    public static ArrayList<Integer> solution(int n) {
+        ArrayList<Integer> answer = new ArrayList<Integer>();
 
         int middle = (int) Math.sqrt(n);
 
@@ -25,7 +25,7 @@ public class Measure {
     }
 
     public static void main(String[] args) {
-        ArrayList answer = solution(25);
+        ArrayList<Integer> answer = solution(25);
 
         for(int i=0; i<answer.size(); i++){
             System.out.println(answer.get(i));

@@ -8,7 +8,7 @@ public class Mbti {
     public static String solution(String[] survey, int[] choices) {
         String answer = "";
         
-        Map mbti = new HashMap<>();
+        Map<String,Integer> mbti = new HashMap<>();
         
         // Map에 Default값으로 RT,CF,JM,AN의 키값으로 value = 0 초기화
         mbti.put("RT", 0);

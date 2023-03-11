@@ -14,7 +14,7 @@ class tangerine {
     public static int solution(int k, int[] tangerine) {
         int answer = 0;
         //배열 tangerine을 map에 저장
-        Map map = new HashMap<>();
+        Map<String,Integer> map = new HashMap<String,Integer>();
         for(int i = 0; i<tangerine.length; i++){
             if (map.containsKey(Integer.toString(tangerine[i]))){
                 int count = (int) map.get(Integer.toString(tangerine[i]));

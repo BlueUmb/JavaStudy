@@ -1,7 +1,5 @@
 package _2023.March._11;
 
-import java.util.Arrays;
-
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120903
 public class ArraySimilar {
     public static int solution(String[] s1, String[] s2) {

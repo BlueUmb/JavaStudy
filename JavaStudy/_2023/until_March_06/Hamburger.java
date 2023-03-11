@@ -1,7 +1,5 @@
 package _2023.until_March_06;
 
-import java.util.ArrayList;
-
 //시간초과
 //문제링크 : 
 public class Hamburger {

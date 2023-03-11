@@ -9,7 +9,7 @@ public class Crain {
         int answer = 0;
 
         //뽑은 인형을 담을 ArrayList선언
-        ArrayList list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<Integer>();
 
         
         for(int movespos = 0; movespos<moves.length; movespos++){   //moves배열에 담긴 값의 수만큼 인형뽑기 수행 반복문

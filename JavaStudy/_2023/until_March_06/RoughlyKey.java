@@ -9,7 +9,7 @@ public class RoughlyKey {
     public static int[] solution(String[] keymap, String[] targets) {
         int[] answer = new int[targets.length];
 
-        Map map = new HashMap<>();
+        Map<Character, Integer> map = new HashMap<Character, Integer>();
 
         //keymap에 담긴 값중 최소 경우의수를 구하기위한 반복문
         for(int i=0; i<keymap.length; i++){ //keymap의 전체 갯수만큼반복
