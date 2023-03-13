@@ -15,5 +15,7 @@ public class SquareStar {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }

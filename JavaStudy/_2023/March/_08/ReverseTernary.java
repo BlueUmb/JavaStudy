@@ -16,6 +16,7 @@ public class ReverseTernary {
             time++;
             if(n==0) break;
         }
+        System.out.println(stack);
 
         for(int i = 0; i<time; i++){
             answer += Math.pow(3, i) * stack.pop();
