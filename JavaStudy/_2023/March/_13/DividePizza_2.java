@@ -1,5 +1,6 @@
 package _2023.March._13;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120815
 public class DividePizza_2 {
     public static int solution(int n) {

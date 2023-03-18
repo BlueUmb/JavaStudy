@@ -1,5 +1,6 @@
 package _2023.March._16;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120885
 public class BinarySum {
     public static String solution(String bin1, String bin2) {

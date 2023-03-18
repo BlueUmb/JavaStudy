@@ -3,6 +3,7 @@ package _2023.March._14;
 import java.util.HashMap;
 import java.util.Map;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120886'
 //map으로 하지않고 두개의 String을 배열로 만들어 sort시킨후 비교하여 같을경우 1 아닐경우 0리턴하면 편함
 public class MakeAToB {

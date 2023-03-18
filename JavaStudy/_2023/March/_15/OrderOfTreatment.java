@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120835
 public class OrderOfTreatment{
     public static int[] solution(int[] emergency) {

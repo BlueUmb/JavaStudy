@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //예외를 찾지못해 보류
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120896
 public class OnceLetter {
     public static String solution(String s) {

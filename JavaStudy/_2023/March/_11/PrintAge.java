@@ -1,5 +1,6 @@
 package _2023.March._11;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120820
 public class PrintAge {
     public static int solution(int age) {

@@ -2,6 +2,7 @@ package _2023.March._12;
 
 import java.util.Arrays;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120905
 public class MultipleN {
     public static int[] solution(int n, int[] numlist) {

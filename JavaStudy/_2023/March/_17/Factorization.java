@@ -3,6 +3,7 @@ package _2023.March._17;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120852
 public class Factorization {
     public static int[] solution(int n) {

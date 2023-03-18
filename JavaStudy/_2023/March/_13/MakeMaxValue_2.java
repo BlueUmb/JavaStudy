@@ -2,6 +2,7 @@ package _2023.March._13;
 
 import java.util.Arrays;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120862
 public class MakeMaxValue_2 {
     public static int solution(int[] numbers) {

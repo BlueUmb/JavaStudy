@@ -1,5 +1,6 @@
 package _2023.March._16;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120864
 public class HideNumSum_2 {
     public static int solution(String my_string) {

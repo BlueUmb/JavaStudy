@@ -1,5 +1,6 @@
 package _2023.March._17;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120912
 public class CountSeven {
     public static int solution(int[] array) {

@@ -1,5 +1,6 @@
 package _2023.March._13;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120895
 public class ChangeIndex {
     public static String solution(String my_string, int num1, int num2) {

@@ -1,5 +1,6 @@
 package _2023.March._11;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120807
 public class CompareNum {
     public static int solution(int num1, int num2) {

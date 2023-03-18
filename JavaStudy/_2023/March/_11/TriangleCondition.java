@@ -2,6 +2,7 @@ package _2023.March._11;
 
 import java.util.Arrays;
 
+//Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120889
 public class TriangleCondition {
     public static int solution(int[] sides) {
