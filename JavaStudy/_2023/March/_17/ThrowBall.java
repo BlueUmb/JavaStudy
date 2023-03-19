@@ -4,7 +4,6 @@ package _2023.March._17;
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120843
 public class ThrowBall {
     public static int solution(int[] numbers, int k) {
-        int answer = 0;
         int i=0;
         while(k!=1){
             if(i+2 <numbers.length){
@@ -15,7 +14,7 @@ public class ThrowBall {
             k--;
         }
 
-        return answer = numbers[i];
+        return numbers[i];
     }
     public static void main(String[] args) {
         int[] a = {1, 2, 3, 4, 5, 6};
