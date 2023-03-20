@@ -20,6 +20,6 @@ public class NumOfCases {
         return BigInteger.ONE;
     }
     public static void main(String[] args) {
-        System.out.println(solution(5,3));
+        System.out.println(solution(2,2));
     }
 }

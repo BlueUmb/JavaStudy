@@ -14,7 +14,6 @@ public class Reversenum {
             i++;
         }
         
-
         return answer;
     }
 
