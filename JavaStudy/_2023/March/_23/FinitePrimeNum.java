@@ -1,7 +1,5 @@
 package _2023.March._23;
 
-import java.util.ArrayList;
-
 //Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120878
 public class FinitePrimeNum {

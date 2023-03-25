@@ -1,8 +1,5 @@
 package _2023.March._15;
 
-import java.util.HashMap;
-import java.util.Map;
-
 //Lv0
 //문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120896
 public class OnceLetter {
