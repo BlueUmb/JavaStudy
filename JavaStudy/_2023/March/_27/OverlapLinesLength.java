@@ -29,6 +29,7 @@ public class OverlapLinesLength {
 
         return answer;
     }
+    
     public static void main(String[] args) {
         int[][] lines = {{-1,1},{1,3},{3,9}};//{{0, 1}, {2, 5}, {3, 9}};//{{0,5},{3,9},{1,10}};
         System.out.println(solution(lines));
