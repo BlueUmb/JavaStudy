@@ -13,5 +13,7 @@ public class CheckOddEven {
         }else{
             System.out.println(n + " is odd");
         }
+        
+        sc.close();
     }
 }

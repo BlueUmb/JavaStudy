@@ -11,5 +11,7 @@ public class PrintAdditionExpression {
         int b = sc.nextInt();
 
         System.out.println(a + " + " + b + " = " + (a + b));
+
+        sc.close();
     }
 }
