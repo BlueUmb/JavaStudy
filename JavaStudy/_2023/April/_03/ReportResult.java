@@ -55,8 +55,8 @@ public class ReportResult {
         return answer.values().toArray(new Integer[answer.size()]);
     }
     public static void main(String[] args) {
-        String[] id = {"con", "ryan"};//{"muzi", "frodo", "apeach", "neo"};
-        String[] report = {"ryan con", "ryan con", "ryan con", "ryan con"};//{"muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"};
+        String[] id ={"muzi", "frodo", "apeach", "neo"};// {"con", "ryan"};
+        String[] report ={"muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"};// {"ryan con", "ryan con", "ryan con", "ryan con"};
         System.out.println(Arrays.toString(solution(id, report, 2)));
 
     }
